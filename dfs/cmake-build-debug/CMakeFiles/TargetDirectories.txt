@@ -1,0 +1,3 @@
+C:/Users/Mihai/Desktop/af/lab10/dfs/cmake-build-debug/CMakeFiles/dfs.dir
+C:/Users/Mihai/Desktop/af/lab10/dfs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mihai/Desktop/af/lab10/dfs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
